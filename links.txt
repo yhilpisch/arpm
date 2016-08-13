@@ -16,3 +16,7 @@ http://arpm-2.pqp.io:4000
 * execute only one thing at a time
 * close notebooks when finished
 * THE SERVERS WILL BE SHUT DOWN TONIGHT
+
+PYTHON FOR FINANCE
+==================
+Book discount AUTHD (40/50% for print/online)
