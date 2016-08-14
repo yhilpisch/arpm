@@ -19,4 +19,17 @@ http://arpm-2.pqp.io:4000
 
 PYTHON FOR FINANCE
 ==================
-Book discount AUTHD (40/50% for print/online)
+Book discount AUTHD (40/50% for print/online) on http://oreilly.com
+
+WIFI
+====
+guest133
+uciaduci
+
+Github Repo
+===========
+git clone http://github.com/yhilpisch/arpm
+cd arpm
+jupyter notebook
+
+
